@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Muli', sans-serif;
+
+}
+
+.nav_style{
+	background-color: #a29bfe!important;
+}
+
+.nav_style a{
+	color: white;
+}
+.main_header{
+	height: 450px;
+	width: 100%;
+}
+
+.rightside h1{
+	font-size: 3rem;
+}
